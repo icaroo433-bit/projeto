@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-projeto desenvolvido pelo curso basico de frontend do maikbrito
+projeto desenvolvido pelo curso basico de frontend do @maykbrito
 
 ## 🔖 Layout
 
